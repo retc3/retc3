@@ -1,12 +1,7 @@
-<p align="center">
-  <img src="assets/banner.jpg" width="100%" alt="banner">
-</p>
-
 <h1 align="center">pryvit pryvit, i'm retc3</h1>
 
 <p align="center">
   <i>say hi, i don't bite</i><br>
-  <sub>static analysis is a lifestyle choice</sub>
 </p>
 
 ---
@@ -34,10 +29,6 @@ somehow works
 | what do i do  | i don't even know, apparently something |
 
 ---
-
-<p align="center">
-  <img src="assets/silly.jpg" width="100%" height="260" alt="silly">
-</p>
 
 <p align="center">
   <sub>funny business sometimes.</sub>
